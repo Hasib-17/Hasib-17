@@ -47,8 +47,8 @@ I'm a Computer Science undergraduate with a passion for algorithmic problem-solv
 - 🏆 **2nd Runner-up @PSTU Intra university Programming contest- 2023** | Solved **1500+ problems** across platforms    
 - 👨‍🏫 **Competitive Programming Trainer** – mentored 150+ students 
 - ⭐ Codeforces: **Rating-1328**  
-- ⭐ CodeChef: **2★**  
-- ⭐ LeetCode: **Rating 1595**  
+- ⭐ CodeChef: **3★**  
+- ⭐ LeetCode: **Rating 1700+**  
 
 ---
 
