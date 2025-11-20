@@ -48,7 +48,7 @@ I'm a Computer Science undergraduate with a passion for algorithmic problem-solv
 - 👨‍🏫 **Competitive Programming Trainer** – mentored 150+ students 
 - ⭐ Codeforces: **Rating-1328**  
 - ⭐ CodeChef: **3★**  
-- ⭐ LeetCode: **Rating 1700+**  
+- ⭐ LeetCode: **Rating 1950+**  
 
 ---
 
