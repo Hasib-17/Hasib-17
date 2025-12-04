@@ -32,11 +32,13 @@ I'm a Computer Science undergraduate with a passion for algorithmic problem-solv
   - Building a comprehensive IDE solution for PSTU CSE department
   - Full-stack development with modern tech stack
   - Developed a secure, browser-based coding IDE supporting multi-language execution.
-  - Implemented anti-cheat features: full-screen enforcement, tab-switch detection, USB monitoring, and copy-paste blocking.
+  - Implemented anti-cheat features: full-screen enforcement, tab-switch/tab-minimize detection, USB monitoring, and copy-paste blocking.
   - Integrated mock interview and viva modules with real-time collaborative coding and live video conferencing.
 
   - Repositories:
     - https://github.com/Hasib-17/CodeLAB
+  - Live:
+    -https://codelab.cse.pstu.ac.bd
   - Technologies:
     - Backend: Node.js, Express.js,FastAPI, MongoDB, Socket.IO, Jitsi
     - Frontend: Next.js, React.js, Tailwind CSS
@@ -46,7 +48,7 @@ I'm a Computer Science undergraduate with a passion for algorithmic problem-solv
 ### 🏅 Competitive Programming
 - 🏆 **2nd Runner-up @PSTU Intra university Programming contest- 2023** | Solved **1500+ problems** across platforms    
 - 👨‍🏫 **Competitive Programming Trainer** – mentored 150+ students 
-- ⭐ Codeforces: **Rating-1328**  
+- ⭐ Codeforces: **Rating-1350+**  
 - ⭐ CodeChef: **3★**  
 - ⭐ LeetCode: **Rating 1950+**  
 
