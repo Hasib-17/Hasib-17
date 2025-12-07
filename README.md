@@ -46,7 +46,7 @@ I'm a Computer Science undergraduate with a passion for algorithmic problem-solv
 ---
 
 ### 🏅 Competitive Programming
-- 🏆 **2nd Runner-up @PSTU Intra university Programming contest- 2023** | Solved **1500+ problems** across platforms    
+- 🏆 **2nd Runner-up @PSTU Independence Day Programming Contest 2024** | Solved **2000+ problems** across platforms    
 - 👨‍🏫 **Competitive Programming Trainer** – mentored 150+ students 
 - ⭐ Codeforces: **Rating-1350+**  
 - ⭐ CodeChef: **3★**  
